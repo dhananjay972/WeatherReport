@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Weather
 //
-//  Created by HFN_GEMS on 12/22/17.
+//  Created by DJ on 26/22/17.
 //
 
 import UIKit
